@@ -1,0 +1,43 @@
+/*tabla */
+
+#anchopais{
+	width:60px;
+	}
+#anchoempresa{
+	width:350px;
+	}
+#anchodelegado{
+	width:25px;
+}
+#anchoimandato{
+	width:80px;
+}
+#anchofmandato{
+	width:80px;
+}
+
+/*formulario*/
+
+.nombre ,.apellido ,.cuil ,.sexo ,.fnac ,.pais ,.tipodoc ,.dni ,.civil 
+,.calle ,.num ,.piso ,.depto ,.prov ,.cp ,.telparticular ,.tellaboral ,.movil
+,.email ,.cuotasindical ,.nbsindical ,.osoc ,.nbosoc ,.discapacidad ,.cad ,.estudios 
+,.obs ,.fingresoempresa ,.legajo ,.cat ,.del ,.fechaInicioMandato ,.fechaFinMandato ,.parentesco ,.empleado{
+	text-align: right;
+	width:200px;
+}
+
+form{
+	padding-left:90px;
+	margin-top:5px;
+}
+#list-empleadoFamiliar h1{
+	margin-top:160px;
+	position: relative;
+}
+
+#create-empleadoFamiliar{
+	margin-top:160px;
+}
+#list-empleadoFamiliar ,#create-empleadoFamiliar ,#show-empleadoFamiliar ,#edit-empleadoFamiliar{
+	margin-top:175px;
+}

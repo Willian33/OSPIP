@@ -1,0 +1,26 @@
+/*tabla */
+
+#ancho_fijo a{
+	width: 70px !important ;
+	background: #f33;
+}
+
+/*formulario*/
+
+.nombre ,.apellido ,.cuil ,.sexo ,.fnac ,.pais ,.tipodoc ,.dni ,.civil 
+,.calle ,.num ,.piso ,.depto ,.prov ,.cp ,.telparticular ,.tellaboral ,.movil
+,.email ,.cuotasindical ,.nbsindical ,.osoc ,.nbosoc ,.discapacidad ,.cad ,.estudios 
+,.obs ,.fingresoempresa ,.legajo ,.cat ,.del ,.fechaInicioMandato ,.fechaFinMandato ,.subcat ,.localidad {
+	text-align: right;
+	width:200px;
+}
+
+#ancho_select_empresas{
+	width: 900px;
+	}
+form{
+	margin-top:20px;
+}
+#list-inspeccion ,#create-inspeccion ,#show-inspeccion ,#edit-inspeccion{
+	margin-top: 160px;
+}

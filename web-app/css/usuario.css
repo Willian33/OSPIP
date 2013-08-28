@@ -1,0 +1,43 @@
+/*tabla */
+
+#anchopais{
+	width:60px;
+	}
+#anchoempresa{
+	width:350px;
+	}
+#anchodelegado{
+	width:25px;
+}
+#anchoimandato{
+	width:80px;
+}
+#anchofmandato{
+	width:80px;
+}
+
+/*formulario*/
+
+.nombre ,.apellido ,.cuil ,.sexo ,.fnac ,.pais ,.tipodoc ,.dni ,.civil 
+,.calle ,.num ,.piso ,.depto ,.prov ,.cp ,.telparticular ,.tellaboral ,.movil
+,.email ,.cuotasindical ,.nbsindical ,.osoc ,.nbosoc ,.discapacidad ,.cad ,.estudios 
+,.obs ,.fingresoempresa ,.legajo ,.cat ,.del ,.fechaInicioMandato ,.fechaFinMandato 
+,.subcat ,.localidad ,.motivo ,.empresainspeccion ,.descripcionMotivo ,.fechaYHoraAlerta 
+,.username ,.pass ,.expired ,.accountLocked ,.enabled ,.passwordExpired ,.tel{
+	text-align: right;
+	width:200px;
+}
+
+#contenedorEmpresaAlerta{
+	width: 900px;
+	}
+form{
+	margin-top:20px;
+}
+#list-usuario ,#create-usuario ,#show-usuario ,#edit-usuario{
+	margin-top: 160px;
+}
+#boton_crear_usuario{
+	
+	margin-left:210px;
+}

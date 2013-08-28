@@ -1,0 +1,15 @@
+form{
+	padding-left:90px;
+	margin-top:20px;
+}
+#titulo_perfil{
+	margin-top: 50px;
+}
+#edit-usuario{
+	width: 700px;
+	margin-left: 100px;
+}
+.username ,.pass ,.apellido ,.tel ,.email ,.nombre{
+	width: 200px;
+	text-align: right;
+}
